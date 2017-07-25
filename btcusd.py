@@ -1,4 +1,5 @@
 #bitfinex API
+#https://docs.bitfinex.com/v1/reference
 
 from urllib.request import urlopen
 import json
